@@ -1,0 +1,3 @@
+ultralytics==8.0.196
+python-dotenv
+roboflow
